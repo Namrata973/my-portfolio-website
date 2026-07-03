@@ -1,18 +1,47 @@
-HOW TO ADD YOUR REAL FILES
-===========================
+# 🌐 Personal Portfolio Website
 
-This folder is where your real files go. The site is already wired to use them —
-just drop files in with these exact names and they'll appear automatically.
+Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, education, and experience as an aspiring software developer.
 
-1. PROFILE PHOTO
-   Add a photo named:  profile.jpg
-   (A square-ish photo, at least 500x600px, works best.)
-   Until you add it, the hero shows an "NJ" monogram instead — that's expected.
+## ✨ Features
 
-2. RESUME
-   Add your resume PDF named:  Namrata_Jain_Resume.pdf
-   Both the navbar "Resume" button and the hero/contact "Download Resume"
-   buttons already point to this filename.
+- Responsive design
+- Modern and clean UI
+- Smooth animations
+- Project showcase
+- Resume download
+- Contact section
 
-That's it — no code changes needed. Just place the files in this /assets folder
-next to index.html, style.css, and script.js.
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀 Live Website
+
+https://your-portfolio-link
+
+## 📂 Featured Projects
+
+- ☕ Levain – Café Website
+- 🎵 Stupefy – Spotify Clone
+- 💍 Roshni Creations – Jewellery Website
+
+## 📸 Preview
+
+(Add a screenshot of your homepage)
+
+## 🌱 Future Improvements
+
+- Blog section
+- Project filtering
+- Dark mode
+- Backend-powered contact form
+
+## 👩‍💻 Author
+
+**Namrata Jain**
+
+GitHub: https://github.com/Namrata973
+
+LinkedIn: https://www.linkedin.com/in/your-linkedin/
